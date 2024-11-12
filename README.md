@@ -1,4 +1,4 @@
-# Shop
+# snake
 
 - [Demo Project](https://snake-game-ashen-iota.vercel.app/)
 
